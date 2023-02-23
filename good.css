@@ -1,0 +1,37 @@
+body {
+  font-family: 'Poppins';
+  font-size: 1rem;
+  background-color: #040926;
+  color: white;
+}
+
+main {
+  margin: auto;
+  max-width: 1048px;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+section {
+  padding-bottom: 1rem;
+}
+
+.job-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.job-logo {
+  height: 3rem;
+}
