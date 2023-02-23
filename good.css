@@ -14,12 +14,10 @@ h1 {
   font-size: 2rem;
 }
 
-h2 {
-  text-decoration: underline;
-}
-
 p {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
+  padding-bottom: 0rem;
+  margin: 0;
 }
 
 section {
@@ -34,4 +32,21 @@ section {
 
 .job-logo {
   height: 3rem;
+}
+
+.photo {
+  border-radius: 9999px;
+  height: 100px;
+  aspect-ratio: 1 / 1;
+}
+
+.photo-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.skills {
+  display: flex;
+  gap: 5rem;
 }
