@@ -1,0 +1,14 @@
+body {
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+  background: url('https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=200&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F001%2F193%2F375%2F5f7.jpeg');
+  background-repeat: repeat;
+  color: red;
+
+  display: flex;
+  justify-content: center;
+}
+
+.photo {
+  width: 100vw;
+  height: 200px;
+}
