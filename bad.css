@@ -12,3 +12,23 @@ body {
   width: 100vw;
   height: 200px;
 }
+
+.job-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.job-logo {
+  height: 3rem;
+}
+
+.photo {
+  height: 100px;
+  aspect-ratio: 1 / 1;
+}
+
+.skills {
+  display: flex;
+  gap: 5rem;
+}
