@@ -50,3 +50,7 @@ section {
   display: flex;
   gap: 5rem;
 }
+
+a {
+  color: #1effbc;
+}
