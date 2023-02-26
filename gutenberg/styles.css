@@ -8,7 +8,7 @@ h3,
 h4,
 h5,
 h6 {
-  text-align: center; /* all headings centered */
+  text-align: center;
   clear: both;
   color: brown;
 }
@@ -29,5 +29,10 @@ img {
   border: 1px solid grey;
 }
 
+figcaption {
+  font-style: italic;
+}
+
 div.fig {
+  font-style: italic;
 }

@@ -25,3 +25,4 @@ Code is licensed under the Apache 2.0 license.
 - Header color to brown
 - First letter of paragraph a bit bigger
 - Box shadow on images, border and border radius
+- italic figcaptions and fig class
